@@ -1,0 +1,30 @@
+{
+  "caseStudy": {
+    "title": "Stop Relying on Motivation — Two Variations",
+    "sourceLabel": "Source: short-form talking-head footage",
+    "versions": [
+      {
+        "code": "A",
+        "name": "Baseline",
+        "timecode": "0:00–0:03",
+        "file": "assets/videos/stop-relying-on-motivation-V1.mp4",
+        "poster": "assets/images/video-placeholder.svg",
+        "opening": "Lead with the core message and remove filler language.",
+        "captions": "Tight subtitle timing for mobile readability.",
+        "pacing": "Measured opening, tightened mid-section.",
+        "whyTest": "Compare a baseline cut against an alternate opening approach."
+      },
+      {
+        "code": "B",
+        "name": "Question Hook",
+        "timecode": "0:00–0:03",
+        "file": "assets/videos/stop-relying-on-motivation-V2.mp4",
+        "poster": "assets/images/video-placeholder.svg",
+        "opening": "Question-led opening to create curiosity.",
+        "captions": "Question phrasing emphasized in captions.",
+        "pacing": "Quicker opening beat, steady follow-through.",
+        "whyTest": "Explore whether a curiosity-led open creates a different viewing experience."
+      }
+    ]
+  }
+}
