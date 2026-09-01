@@ -1,0 +1,23 @@
+<svg width="1200" height="2133" viewBox="0 0 1200 2133" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="160" y1="80" x2="1040" y2="2053" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1B2126"/>
+      <stop offset="1" stop-color="#0E1216"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="480" y1="500" x2="760" y2="1570" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B9FF53"/>
+      <stop offset="1" stop-color="#8CE0FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="2133" rx="48" fill="url(#bg)"/>
+  <g opacity="0.9">
+    <circle cx="600" cy="860" r="230" fill="url(#accent)" fill-opacity="0.12"/>
+    <circle cx="600" cy="860" r="150" stroke="url(#accent)" stroke-width="10" stroke-opacity="0.7"/>
+    <path d="M560 785L700 860L560 935V785Z" fill="url(#accent)"/>
+  </g>
+  <rect x="270" y="1180" width="660" height="190" rx="30" fill="#F3F1EC" fill-opacity="0.08"/>
+  <rect x="315" y="1235" width="570" height="18" rx="9" fill="#F3F1EC" fill-opacity="0.3"/>
+  <rect x="315" y="1285" width="435" height="18" rx="9" fill="#F3F1EC" fill-opacity="0.18"/>
+  <text x="600" y="1535" text-anchor="middle" fill="#F3F1EC" font-family="Arial, Helvetica, sans-serif" font-size="110" font-weight="700">VIDEO</text>
+  <text x="600" y="1660" text-anchor="middle" fill="#B9FF53" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="600">COMING SOON</text>
+</svg>
