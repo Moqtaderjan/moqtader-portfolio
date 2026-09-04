@@ -145,19 +145,19 @@ p { color: var(--text-dim); margin: 0 0 16px; }
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 150px;
-  height: 42px;
-  border: 1px solid var(--line);
-  border-radius: 10px;
-  background: rgba(255, 255, 255, 0.02);
-  overflow: hidden;
+  width: 180px;
+  height: 50px;
+  border: none;
+  background: transparent;
+  overflow: visible;
 }
 
 .nav-logo img {
-  width: 100%;
-  height: 100%;
-  object-fit: contain;
   display: block;
+  width: 180px;
+  height: auto;
+  max-width: none;
+  object-fit: contain;
 }
 .nav-links {
   display: flex;
