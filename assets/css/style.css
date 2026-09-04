@@ -145,7 +145,7 @@ p { color: var(--text-dim); margin: 0 0 16px; }
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 42px;
+  width: 150px;
   height: 42px;
   border: 1px solid var(--line);
   border-radius: 10px;
