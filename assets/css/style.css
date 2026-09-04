@@ -140,24 +140,24 @@ p { color: var(--text-dim); margin: 0 0 16px; }
   justify-content: space-between;
   height: 64px;
 }
+
 .nav-logo {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  min-width: 42px;
+  width: 42px;
   height: 42px;
   border: 1px solid var(--line);
   border-radius: 10px;
-  background: rgba(255,255,255,0.02);
-  font-family: var(--font-mono);
-  font-size: 12px;
-  letter-spacing: 0.08em;
+  background: rgba(255, 255, 255, 0.02);
+  overflow: hidden;
 }
-.nav-logo-mark {
-  color: var(--accent);
-  font-weight: 700;
-  padding-left: 10px;
-  padding-right: 10px;
+
+.nav-logo img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
 }
 .nav-links {
   display: flex;
