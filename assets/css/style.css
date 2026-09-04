@@ -153,11 +153,10 @@ p { color: var(--text-dim); margin: 0 0 16px; }
 }
 
 .nav-logo img {
-  display: block;
   width: 180px;
   height: auto;
   max-width: none;
-  object-fit: contain;
+  display: block;
 }
 .nav-links {
   display: flex;
